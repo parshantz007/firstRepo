@@ -1,0 +1,5 @@
+name = input("what is your name ")
+print("hello " + name)
+# age01 = input("btw what is your age")
+# print(age)
+# print("oh " + name + " you are eligible for learning python , lets learn together")
